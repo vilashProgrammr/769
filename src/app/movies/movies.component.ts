@@ -23,7 +23,7 @@ export class MoviesComponent implements OnInit {
   //options: string[] = ['One', 'Two', 'Three'];
   options = new Array<Result>();
   popularList: Array<Object>;
-  theatersList: Array<Object>;
+  theatersList123: Array<Object>;
   topRatedList: Array<Object>;
   searchRes: Array<Object>;
   searchStr: string;
